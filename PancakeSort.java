@@ -72,6 +72,8 @@ public class PancakeSort {
  * Example 1- Enter length of array 6 79 54 3 68 12 0 Sorted Array: 0 3 12 54 68
  * 79
  * 
+ * 
+ * 
  * Example 2- Enter length of array 8 90 70 60 50 40 30 20 10 Sorted Array: 10
  * 20 30 40 50 60 70 90
  */
