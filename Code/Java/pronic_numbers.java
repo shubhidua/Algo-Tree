@@ -6,7 +6,6 @@ The basic idea is to user a temp variable which will keep count of number
 and prints count*(count+1) while count<n.
 */
 import java.util.*;
-
 public class pronic_numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
